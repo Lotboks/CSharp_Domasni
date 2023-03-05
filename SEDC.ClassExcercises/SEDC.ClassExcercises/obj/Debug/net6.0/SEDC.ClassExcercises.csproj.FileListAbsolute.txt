@@ -1,0 +1,15 @@
+C:\Users\Alex\Documents\GitHub\CSharp_Domasni\SEDC.ClassExcercises\SEDC.ClassExcercises\bin\Debug\net6.0\SEDC.ClassExcercises.exe
+C:\Users\Alex\Documents\GitHub\CSharp_Domasni\SEDC.ClassExcercises\SEDC.ClassExcercises\bin\Debug\net6.0\SEDC.ClassExcercises.deps.json
+C:\Users\Alex\Documents\GitHub\CSharp_Domasni\SEDC.ClassExcercises\SEDC.ClassExcercises\bin\Debug\net6.0\SEDC.ClassExcercises.runtimeconfig.json
+C:\Users\Alex\Documents\GitHub\CSharp_Domasni\SEDC.ClassExcercises\SEDC.ClassExcercises\bin\Debug\net6.0\SEDC.ClassExcercises.dll
+C:\Users\Alex\Documents\GitHub\CSharp_Domasni\SEDC.ClassExcercises\SEDC.ClassExcercises\bin\Debug\net6.0\SEDC.ClassExcercises.pdb
+C:\Users\Alex\Documents\GitHub\CSharp_Domasni\SEDC.ClassExcercises\SEDC.ClassExcercises\obj\Debug\net6.0\SEDC.ClassExcercises.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\CSharp_Domasni\SEDC.ClassExcercises\SEDC.ClassExcercises\obj\Debug\net6.0\SEDC.ClassExcercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\GitHub\CSharp_Domasni\SEDC.ClassExcercises\SEDC.ClassExcercises\obj\Debug\net6.0\SEDC.ClassExcercises.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\GitHub\CSharp_Domasni\SEDC.ClassExcercises\SEDC.ClassExcercises\obj\Debug\net6.0\SEDC.ClassExcercises.AssemblyInfo.cs
+C:\Users\Alex\Documents\GitHub\CSharp_Domasni\SEDC.ClassExcercises\SEDC.ClassExcercises\obj\Debug\net6.0\SEDC.ClassExcercises.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\CSharp_Domasni\SEDC.ClassExcercises\SEDC.ClassExcercises\obj\Debug\net6.0\SEDC.ClassExcercises.dll
+C:\Users\Alex\Documents\GitHub\CSharp_Domasni\SEDC.ClassExcercises\SEDC.ClassExcercises\obj\Debug\net6.0\refint\SEDC.ClassExcercises.dll
+C:\Users\Alex\Documents\GitHub\CSharp_Domasni\SEDC.ClassExcercises\SEDC.ClassExcercises\obj\Debug\net6.0\SEDC.ClassExcercises.pdb
+C:\Users\Alex\Documents\GitHub\CSharp_Domasni\SEDC.ClassExcercises\SEDC.ClassExcercises\obj\Debug\net6.0\SEDC.ClassExcercises.genruntimeconfig.cache
+C:\Users\Alex\Documents\GitHub\CSharp_Domasni\SEDC.ClassExcercises\SEDC.ClassExcercises\obj\Debug\net6.0\ref\SEDC.ClassExcercises.dll
