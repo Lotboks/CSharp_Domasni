@@ -1,0 +1,15 @@
+C:\Users\alekd\source\repos\Homework5_CSharp\Homework5\Homework5\bin\Debug\net6.0\SEDC.Excercise.exe
+C:\Users\alekd\source\repos\Homework5_CSharp\Homework5\Homework5\bin\Debug\net6.0\SEDC.Excercise.deps.json
+C:\Users\alekd\source\repos\Homework5_CSharp\Homework5\Homework5\bin\Debug\net6.0\SEDC.Excercise.runtimeconfig.json
+C:\Users\alekd\source\repos\Homework5_CSharp\Homework5\Homework5\bin\Debug\net6.0\SEDC.Excercise.dll
+C:\Users\alekd\source\repos\Homework5_CSharp\Homework5\Homework5\bin\Debug\net6.0\SEDC.Excercise.pdb
+C:\Users\alekd\source\repos\Homework5_CSharp\Homework5\Homework5\obj\Debug\net6.0\SEDC.Excercise.csproj.AssemblyReference.cache
+C:\Users\alekd\source\repos\Homework5_CSharp\Homework5\Homework5\obj\Debug\net6.0\SEDC.Excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alekd\source\repos\Homework5_CSharp\Homework5\Homework5\obj\Debug\net6.0\SEDC.Excercise.AssemblyInfoInputs.cache
+C:\Users\alekd\source\repos\Homework5_CSharp\Homework5\Homework5\obj\Debug\net6.0\SEDC.Excercise.AssemblyInfo.cs
+C:\Users\alekd\source\repos\Homework5_CSharp\Homework5\Homework5\obj\Debug\net6.0\SEDC.Excercise.csproj.CoreCompileInputs.cache
+C:\Users\alekd\source\repos\Homework5_CSharp\Homework5\Homework5\obj\Debug\net6.0\SEDC.Excercise.dll
+C:\Users\alekd\source\repos\Homework5_CSharp\Homework5\Homework5\obj\Debug\net6.0\refint\SEDC.Excercise.dll
+C:\Users\alekd\source\repos\Homework5_CSharp\Homework5\Homework5\obj\Debug\net6.0\SEDC.Excercise.pdb
+C:\Users\alekd\source\repos\Homework5_CSharp\Homework5\Homework5\obj\Debug\net6.0\SEDC.Excercise.genruntimeconfig.cache
+C:\Users\alekd\source\repos\Homework5_CSharp\Homework5\Homework5\obj\Debug\net6.0\ref\SEDC.Excercise.dll

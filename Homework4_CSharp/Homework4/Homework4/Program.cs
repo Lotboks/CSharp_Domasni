@@ -32,23 +32,46 @@
 
 #region
 
-static int SumOfDigits()
+//int SumOfDigits()
+//{
+//    Console.Write("Enter a number: ");
+//    int inputNumber = Convert.ToInt32(Console.ReadLine());
+//    int sumOfInputDigits = 0;
+
+//    string numberString = inputNumber.ToString();
+
+//    foreach (char digit in numberString)
+//    {
+//        sumOfInputDigits += Convert.ToInt32(digit.ToString());
+//    }
+
+//    return sumOfInputDigits;
+//}
+
+//int sum = SumOfDigits();
+//Console.WriteLine("Sum of digits: {0}", sum);
+
+#endregion
+
+#region
+
+void AgeCalculator(DateTime birthdate)
 {
-    Console.Write("Enter a number: ");
-    int inputNumber = Convert.ToInt32(Console.ReadLine());
-    int sumOfDigits = 0;
+    DateTime today = DateTime.Today;
+    int age = today.Year - birthdate.Year;
 
-    string numberString = inputNumber.ToString();
-
-    foreach (char digit in numberString)
+    if (birthdate > today.AddYears(-age))
     {
-        sumOfDigits += Convert.ToInt32(digit.ToString());
+        age--;
     }
 
-    return sumOfDigits;
+    Console.WriteLine("You are " + age + " years old.");
 }
 
-int sum = SumOfDigits();
-Console.WriteLine("Sum of digits: {0}", sum);
+Console.WriteLine("Please enter your birthdate in the following format (MM-DD-YYYY): ");
+Console.WriteLine("Example: 09 02 2003");
+DateTime birthDate = DateTime.Parse(Console.ReadLine());
+
+AgeCalculator(birthDate);
 
 #endregion
