@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Movie_Store_Homework_CSharp.Enums;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,20 +11,12 @@ namespace Movie_Store_Homework_CSharp.Models
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public int age { get; set; }
+        public int Age { get; set; }
         public string UserName { get; set; }
         public string Password { get; set; }
         public int PhoneNumber { get; set; }
         public DateTime DateOfRegistration { get; set; }
-
-        public enum Role
-        {
-            Guest,
-            Trusted,
-            Admin,
-            Kin
-        }
-
+        public Role Role { get; set; }
         public void DisplayInfo()
         {
             Console.WriteLine($"* #{FirstName} #{LastName} | Registered on: {DateOfRegistration}");

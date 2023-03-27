@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Movie_Store_Homework_CSharp.Enums;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,13 +10,9 @@ namespace Movie_Store_Homework_CSharp.Models
     public class User : Member
     {
         public int MemberNumber { get; set; }
+        public TypeOfSubscription TypeOfSubscription { get; set; }
         public List<Movie> Movies { get; set; }
 
-        public enum TypeOfSubscription
-        {
-            Monthly,
-            Annualy
-        }
     }
 }
 
