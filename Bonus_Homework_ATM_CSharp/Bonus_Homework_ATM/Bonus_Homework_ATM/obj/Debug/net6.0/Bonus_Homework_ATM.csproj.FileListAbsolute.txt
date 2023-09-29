@@ -1,0 +1,15 @@
+B:\Github\CSharp_domasni\Bonus_Homework_ATM_CSharp\Bonus_Homework_ATM\Bonus_Homework_ATM\bin\Debug\net6.0\Bonus_Homework_ATM.exe
+B:\Github\CSharp_domasni\Bonus_Homework_ATM_CSharp\Bonus_Homework_ATM\Bonus_Homework_ATM\bin\Debug\net6.0\Bonus_Homework_ATM.deps.json
+B:\Github\CSharp_domasni\Bonus_Homework_ATM_CSharp\Bonus_Homework_ATM\Bonus_Homework_ATM\bin\Debug\net6.0\Bonus_Homework_ATM.runtimeconfig.json
+B:\Github\CSharp_domasni\Bonus_Homework_ATM_CSharp\Bonus_Homework_ATM\Bonus_Homework_ATM\bin\Debug\net6.0\Bonus_Homework_ATM.dll
+B:\Github\CSharp_domasni\Bonus_Homework_ATM_CSharp\Bonus_Homework_ATM\Bonus_Homework_ATM\bin\Debug\net6.0\Bonus_Homework_ATM.pdb
+B:\Github\CSharp_domasni\Bonus_Homework_ATM_CSharp\Bonus_Homework_ATM\Bonus_Homework_ATM\obj\Debug\net6.0\Bonus_Homework_ATM.csproj.AssemblyReference.cache
+B:\Github\CSharp_domasni\Bonus_Homework_ATM_CSharp\Bonus_Homework_ATM\Bonus_Homework_ATM\obj\Debug\net6.0\Bonus_Homework_ATM.GeneratedMSBuildEditorConfig.editorconfig
+B:\Github\CSharp_domasni\Bonus_Homework_ATM_CSharp\Bonus_Homework_ATM\Bonus_Homework_ATM\obj\Debug\net6.0\Bonus_Homework_ATM.AssemblyInfoInputs.cache
+B:\Github\CSharp_domasni\Bonus_Homework_ATM_CSharp\Bonus_Homework_ATM\Bonus_Homework_ATM\obj\Debug\net6.0\Bonus_Homework_ATM.AssemblyInfo.cs
+B:\Github\CSharp_domasni\Bonus_Homework_ATM_CSharp\Bonus_Homework_ATM\Bonus_Homework_ATM\obj\Debug\net6.0\Bonus_Homework_ATM.csproj.CoreCompileInputs.cache
+B:\Github\CSharp_domasni\Bonus_Homework_ATM_CSharp\Bonus_Homework_ATM\Bonus_Homework_ATM\obj\Debug\net6.0\Bonus_Homework_ATM.dll
+B:\Github\CSharp_domasni\Bonus_Homework_ATM_CSharp\Bonus_Homework_ATM\Bonus_Homework_ATM\obj\Debug\net6.0\refint\Bonus_Homework_ATM.dll
+B:\Github\CSharp_domasni\Bonus_Homework_ATM_CSharp\Bonus_Homework_ATM\Bonus_Homework_ATM\obj\Debug\net6.0\Bonus_Homework_ATM.pdb
+B:\Github\CSharp_domasni\Bonus_Homework_ATM_CSharp\Bonus_Homework_ATM\Bonus_Homework_ATM\obj\Debug\net6.0\Bonus_Homework_ATM.genruntimeconfig.cache
+B:\Github\CSharp_domasni\Bonus_Homework_ATM_CSharp\Bonus_Homework_ATM\Bonus_Homework_ATM\obj\Debug\net6.0\ref\Bonus_Homework_ATM.dll
